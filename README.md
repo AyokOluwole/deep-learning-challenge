@@ -58,6 +58,8 @@ First, I needed to design a neural network, or deep learning model, to create a 
 
 
 <img width="874" alt="number 8 " src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/24be7653-5f9b-4e70-b74c-83c8abf4c51a">
+
+
 •	After checking the structure of the model, the next step was to Compile and train the model.
 
 <img width="779" alt="number 9 " src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/7da05c2b-e640-49ea-a961-f40b4ed45de2">
