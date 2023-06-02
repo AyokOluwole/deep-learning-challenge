@@ -32,6 +32,7 @@ Step 1: Preprocess the Data
 
 <img width="838" alt="number 4" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/cf60d90f-9814-4313-8aa5-41659be8dc89">
  
+
 •	Then I used pd.get_dummies() to encode categorical variables.
 
 <img width="536" alt="number 5" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/1cdb8817-1c76-412c-a101-b7de0aeffeca">
