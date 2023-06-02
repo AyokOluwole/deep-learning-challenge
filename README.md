@@ -80,8 +80,9 @@ In compiling, training and evaluating the model, the goal was to achieve a targe
 
 •	The best model from the keras tuner method achieved 73% prediction accuracy using a sigmoid activation function with input node of 66, 5 hidden layers at a 16, 11, 16, 16, and 26.
 •	Next was to evaluate the model to determine the loss and accuracy. The accuracy was 73% while loss was 57% 
-Summary: 
-In conclusion, this does not perform well to predict which funding applications are most likely to succeed. When both ran, it has a 73% accuracy was not up to expectation (75%). 
+
+
+Summary: In conclusion, this does not perform well to predict which funding applications are most likely to succeed. When both ran, it has a 73% accuracy was not up to expectation (75%). 
 
 
 
