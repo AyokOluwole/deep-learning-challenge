@@ -43,13 +43,18 @@ Step 1: Preprocess the Data
 
 •	Finally, I scaled the training and testing features datasets by creating a StandardScaler instance, and fitting it to the training data, then used the transform function
 
+
 <img width="466" alt="number 7" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/2cb4190e-cadd-4f43-899d-49830dcca266">
  
+ 
+ 
+ 
 Step 2: Compile, Train, and Evaluate the Model
 First, I needed to design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup-funded organization will be successful based on the features in the dataset.
 •	The first step was to design the neural network model by assigning the number of input features and nodes for each layer using TensorFlow and Keras.
 •	Next was to create the first hidden layer and choose an appropriate activation function. And if necessary, add a second hidden layer.
 •	Next was to create an output layer and check the structure of the model.
+
 
 
 <img width="874" alt="number 8 " src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/24be7653-5f9b-4e70-b74c-83c8abf4c51a">
