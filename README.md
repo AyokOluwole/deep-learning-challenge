@@ -17,9 +17,9 @@ From Alphabet Soup’s business team, I have received a CSV containing more than
 •	IS_SUCCESSFUL—Was the money used effectively
 
  
-Steps: 
-**Step 1: Preprocess the Data
-**
+**Step 1: Preprocess the Data**
+
+
 <img width="910" alt="number 1" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/3f4c52e4-1e09-465b-b0b3-f6cdc3020a09">
 
 
@@ -51,8 +51,8 @@ Steps:
  
  
  
-**Step 2: Compile, Train, and Evaluate the Model
-**
+**Step 2: Compile, Train, and Evaluate the Model**
+
 
 First, I needed to design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup-funded organization will be successful based on the features in the dataset.
 •	The first step was to design the neural network model by assigning the number of input features and nodes for each layer using TensorFlow and Keras.
@@ -72,8 +72,8 @@ First, I needed to design a neural network, or deep learning model, to create a 
 
 <img width="628" alt="number 10" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/6a08ddc7-f6a0-4be7-bdf4-dba33d230297">
 
-**Step 3: Compile, Train and Evaluate the Model
-**
+**Step 3: Compile, Train and Evaluate the Model**
+
 
 
 In compiling, training and evaluating the model, the goal was to achieve a target predictive accuracy higher than 75%. This was done by repeating steps 1 and 2 and adjusting for any modifications that came out of optimizing the model.
