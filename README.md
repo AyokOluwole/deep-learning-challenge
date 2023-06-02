@@ -1,5 +1,7 @@
 # deep-learning-challenge
 
+**Background** 
+
 The non-profit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With my knowledge of machine learning and neural networks, I created a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 From Alphabet Soup’s business team, I have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:
 •	EIN and NAME—Identification columns
@@ -16,8 +18,8 @@ From Alphabet Soup’s business team, I have received a CSV containing more than
 
  
 Steps: 
-Step 1: Preprocess the Data
-
+**Step 1: Preprocess the Data
+**
 <img width="910" alt="number 1" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/3f4c52e4-1e09-465b-b0b3-f6cdc3020a09">
 
 
@@ -49,7 +51,9 @@ Step 1: Preprocess the Data
  
  
  
-Step 2: Compile, Train, and Evaluate the Model
+**Step 2: Compile, Train, and Evaluate the Model
+**
+
 First, I needed to design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup-funded organization will be successful based on the features in the dataset.
 •	The first step was to design the neural network model by assigning the number of input features and nodes for each layer using TensorFlow and Keras.
 •	Next was to create the first hidden layer and choose an appropriate activation function. And if necessary, add a second hidden layer.
@@ -68,7 +72,10 @@ First, I needed to design a neural network, or deep learning model, to create a 
 
 <img width="628" alt="number 10" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/6a08ddc7-f6a0-4be7-bdf4-dba33d230297">
 
-Step 3: Compile, Train and Evaluate the Model
+**Step 3: Compile, Train and Evaluate the Model
+**
+
+
 In compiling, training and evaluating the model, the goal was to achieve a target predictive accuracy higher than 75%. This was done by repeating steps 1 and 2 and adjusting for any modifications that came out of optimizing the model.
 •	After repeating the step 1 and 2, the next was to maximize model accuracy. I employed an automated model optimizer that utilizes the keras-tuner library. The optimizer creates a method to generate a keras Sequential model with hyperparameter options, enabling comprehensive exploration for optimal configuration.
 
