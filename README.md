@@ -74,7 +74,9 @@ In compiling, training and evaluating the model, the goal was to achieve a targe
 
 <img width="750" alt="number 12" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/62d3d3c1-b85a-4c05-8ad1-8a2e0c91cfcb">
 
+
 •	Before completing the trials, I had to interrupt as the previous load had taken over 3hrs to complete because of the large amount of data.
+
 
 <img width="712" alt="number 13" src="https://github.com/AyokOluwole/deep-learning-challenge/assets/119383340/52804699-6749-4a78-b6c2-7bdde45e00d3">
 
